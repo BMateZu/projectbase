@@ -98,4 +98,33 @@ daysOFweek.sort()
 daysOFweek.reverse()
 alert("Atualmente os alunos da escola são: "+daysOFweek) //Usando alert e uma array
 alert(daysOFweek.indexOf("Arthur"))*/
+//sem parametro
+/*function saudar(){
+    alert ("Desejo uma boa navegação no nosso site!")
+}
+saudar()*/
+
+//Com return e Paraâmetro
+
+/*function dobrarNumero(numero){
+    return numero * 2 
+}
+let resultado = dobrarNumero(888)
+alert ("O calculo do dobro do número"+resultado)*/
+//Com Parametro
+*/*function Cumprimentar(nome){
+    alert("Olá, "+nome+" como está seu dia")
+}
+let nomedoaluno = prompt("Digite o seu nome jovem: ")
+Cumprimentar(nomedoaluno)*/
+//Recursiva
+/*function contagemRegressiva(numero){
+    console.log(numero)
+    if(numero ===0){
+        console.log("chegou");
+        return;
+    }
+    contagemRegressiva(numero-1)
+}
+contagemRegressiva(10)*/
 
