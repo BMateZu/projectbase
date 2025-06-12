@@ -112,7 +112,7 @@ saudar()*/
 let resultado = dobrarNumero(888)
 alert ("O calculo do dobro do número"+resultado)*/
 //Com Parametro
-*/*function Cumprimentar(nome){
+/*function Cumprimentar(nome){
     alert("Olá, "+nome+" como está seu dia")
 }
 let nomedoaluno = prompt("Digite o seu nome jovem: ")
